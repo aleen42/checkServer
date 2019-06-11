@@ -1,5 +1,7 @@
 ## checkServer
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/checkServer/master/LICENSE) ![](https://img.shields.io/badge/Shell-4,685-89e051.svg)
+
 **checkServer** is a repository of a shell script snippet, which is mainly used for checking whether **CPU** or **MEMORY** of a server is normal. To enhance notification, the checked status will also be sent by emails.
 
 ### 1. Mutt
